@@ -1,0 +1,4 @@
+GitTerm Commands:
+
+git - Git command
+info - GitTerm Information
